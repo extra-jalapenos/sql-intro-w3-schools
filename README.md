@@ -1,6 +1,6 @@
 # databases & sql
 ## Standard Exercise:
-Using the MySQL Database from the w3school website, answer the following questions (to keep a copy of your queries, after you find the solution, paste the query below each question):
+Using the [MySQL Database from the w3school website](https://www.w3schools.com/sql/trymysql.asp), answer the following questions (to keep a copy of your queries, after you find the solution, paste the query below each question):
 1. What is the Average Product Price?
 2. How many unique products are there?
 3. Using the Customers table, isolate the first names of the customers in a new variable called CustomerFirstName; are there any customers with the same first name? If yes, how many duplicates are there?
