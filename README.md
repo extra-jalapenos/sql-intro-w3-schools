@@ -4,10 +4,11 @@ Using the [MySQL Database from the w3school website](https://www.w3schools.com/s
 1. What is the Average Product Price?
 2. How many unique products are there?
 3. Using the Customers table, isolate the first names of the customers in a new variable called CustomerFirstName; are there any customers with the same first name? If yes, how many duplicates are there?
-4. Using the Orders table, create a new variable that calculates the number of days between today and the OrderDate and call it DaysFromOrder.
-   1. Now convert this variable from days to years and call it YearsFromOrder.
-   2. What is the average difference between OrderDate and current date (in terms of years)?
-   3. How many years have passed from the oldest order to the most recent one?
+4. Using the Orders table
+   a. create a new variable that calculates the number of days between today and the OrderDate and call it DaysFromOrder.
+   b. Now convert this variable from days to years and call it YearsFromOrder.
+   c. What is the average difference between OrderDate and current date (in terms of years)?
+   d. How many years have passed from the oldest order to the most recent one?
 5. Using the Shippers table, create a new variable called Prefix where you isolate the prefix of the Phone variable.
 
 ## Advanced Exercise (optional):
